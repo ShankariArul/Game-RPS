@@ -7,6 +7,7 @@ public class pollSCM {
 		System.out.println("Testing poll SCM trigger");
 		System.out.println("Testing trigger2");
 		System.out.println("Testing Webhook trigger");
+		System.out.println("Testing Webhook trigger2");
 
 	}
 
