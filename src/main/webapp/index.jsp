@@ -1,8 +1,9 @@
 <html>
 <head>
 <title>Rock Paper Scissors!!!</title>
-setBackground(Color.red);																																																						<html>
+																																																						<html>
 </head>
+getContentPane().setBackground(Color.blue);
 
    <body>
 		Code lab Technology
