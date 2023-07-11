@@ -5,12 +5,12 @@
 </head>
 
 
-   <body bgcolor="blue">
+   <body bgcolor="#42eff5">
 		
       Which one will it be for you today?<br/>
-      <a href="#" onclick="playRoshambo('rock')"> rock </a>
-      <a href="#" onclick="playRoshambo('paper')"> paper </a>
-      <a href="#" onclick="playRoshambo('scissors')"> scissors </a>
+      <a href="#" onclick="playRoshambo('rock')" style="color:Red"> rock </a>
+      <a href="#" onclick="playRoshambo('paper')" style="color:Blue"> paper </a>
+      <a href="#" onclick="playRoshambo('scissors')" style="color:Green"> scissors </a>
 
       <br/>
       <div id="results"></div>
