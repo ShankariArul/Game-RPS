@@ -3,10 +3,10 @@
 <title>Rock Paper Scissors!!!</title>
 																																																						<html>
 </head>
-getContentPane().setBackground(Color.blue);
 
-   <body>
-		Code lab Technology
+
+   <body bgcolor="blue">
+		
       Which one will it be for you today?<br/>
       <a href="#" onclick="playRoshambo('rock')"> rock </a>
       <a href="#" onclick="playRoshambo('paper')"> paper </a>
