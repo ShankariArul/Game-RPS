@@ -5,7 +5,7 @@
 </head>
 
 
-   <body bgcolor="#42eff5">
+   
 		
       Which one will it be for you today?<br/>
       <a href="#" onclick="playRoshambo('rock')" style="color:Red"> rock </a>
